@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        table,th,td
+        {
+        border: 1px solid black;
+        table-layout: fixed;
+        width: 30%;
+        border-collapse: initial;
+        text-align: center;
+        }
+        h9
+        {
+         margin-left: 0px;
+        }
+
+    </style>
+</head>
+
+<body>
+<p>Bài 1: Viết chương trình nhập điểm của một sinh viên cho các môn: Vật lý, Hóa học, và Sinh học.
+    Sau đó hiển thị điểm trung bình và tổng của những điểm này.</p>
+<input type="button" value="Click to view Exercise 1" onclick="Ex1()">
+<br><br>
+<span id="Math"></span> <span id="Chem"></span> <span id="Phys"></span>
+<h4 id="a1"></h4>
+<h4 id="a2"></h4>
+
+<p>Bài 2:  Viết chương trình nhập một giá trị là độ 0C (Celsius) và chuyển nó sang độ 0F (Fahrenheit). [Hướng dẫn: C/5 = (F-32)/9]</p>
+<input type="button" value="Click to view Exercise 2" onclick="Ex2()">
+<br><br>
+<h4 id="Temp"></h4>
+<h4 id="Temp1"></h4>
+
+<script src="variable&datatype.js"></script>
+
+<p>Bài 3&4: Viết chương trình tính diện tích & chu vi hình tròn</p>
+
+<table>
+    <tr>
+        <th></th>
+        <th>Dien Tich (cm^2)</th>
+        <th>Chu Vi (cm)</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="radius" placeholder="Nhap ban kinh (cm)"size="13.5px"></td>
+        <td id="Area"></td>
+        <td id="Perimeter"></td>
+    </tr>
+</table>
+
+<h9><input  type="button" value="Click here to see Result!" onclick="Ex3()"></h9>
+</body>
+</html>

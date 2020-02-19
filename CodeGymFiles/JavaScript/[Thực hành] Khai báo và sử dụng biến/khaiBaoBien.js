@@ -10,7 +10,7 @@ function Bai3()
     }
     else
     {   alert("a khong phai la boi so cua b");
-        document.getElementById("d6").innerHTML=("a khong phai la boi so cua b" );
+        document.getElementById("d6").innerHTML=(+a+ " khong phai la boi so cua" + b );
     }
 }
 
