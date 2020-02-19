@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eebbbd3c-6a71-46d1-a6eb-a38f8335a746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ThucHanhTaoBangDonGian.html" afterDir="false" />
-    </list>
+    <list default="true" id="eebbbd3c-6a71-46d1-a6eb-a38f8335a746" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +11,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1XzC93EoQL1YWDEb8sVG3MRz5gW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,7 +36,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaScript/[Thực hành] Khai báo và sử dụng biến" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,11 +49,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582039380586</updated>
-      <workItem from="1582039381695" duration="147000" />
+      <workItem from="1582039381695" duration="1460000" />
+      <workItem from="1582041109104" duration="282000" />
+      <workItem from="1582077647573" duration="93000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582077737486">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1582077737486" />
   </component>
 </project>
