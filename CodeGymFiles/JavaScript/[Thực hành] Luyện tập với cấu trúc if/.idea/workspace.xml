@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feb61984-dff3-45c6-b386-c6513b94bcb1" name="Default Changelist" comment="">
+    <list default="true" id="af7421fb-51ce-4408-9dc5-4ff1e5fc1dd2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Bai tap Bien kieu du lieu/.idea/Bai tap Bien kieu du lieu.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bai tap Bien kieu du lieu/Bai tap Bien va Kieu du lieu.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bai tap Bien kieu du lieu/variable&amp;datatype.js" afterDir="false" />
@@ -19,8 +19,10 @@
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Khai báo và sử dụng biến/.idea/[Thực hành] Khai báo và sử dụng biến.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Khai báo và sử dụng biến/khaiBaoBien.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Khai báo và sử dụng biến/khaiBaoBien.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CheckYear.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Thực hành] Kiểm tra năm nhuận.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Kiểm tra năm nhuận/.idea/[Thực hành] Kiểm tra năm nhuận.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Kiểm tra năm nhuận/CheckYear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Kiểm tra năm nhuận/[Thực hành] Kiểm tra năm nhuận.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[Thực hành] Luyện tập với cấu trúc ifelse.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng toán tử/.idea/[Thực hành] Sử dụng toán tử.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng toán tử/ThucHanhSuDungToanTu.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng toán tử/thuchanhtoantu.js" afterDir="false" />
@@ -42,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1Y3pC5o7JjqJ5rtBY9YVJTyv7yG" />
+  <component name="ProjectId" id="1Y3uYgkHVFoCNurqt4CE4txCOA4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,19 +56,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../[Thực hành] Luyện tập với cấu trúc if" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="feb61984-dff3-45c6-b386-c6513b94bcb1" name="Default Changelist" comment="" />
-      <created>1582181001700</created>
+      <changelist id="af7421fb-51ce-4408-9dc5-4ff1e5fc1dd2" name="Default Changelist" comment="" />
+      <created>1582183647964</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582181001700</updated>
-      <workItem from="1582181002835" duration="2645000" />
+      <updated>1582183647964</updated>
+      <workItem from="1582183649245" duration="240000" />
     </task>
     <servers />
   </component>
@@ -74,9 +76,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582183646646">
+    <state x="416" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582183851199">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1582183646646" />
+    <state x="416" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1582183851199" />
   </component>
 </project>
