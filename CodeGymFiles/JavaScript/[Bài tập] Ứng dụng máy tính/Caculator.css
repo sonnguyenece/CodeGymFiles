@@ -1,0 +1,51 @@
+
+.button
+{
+    border-radius: 30%px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 5px;
+    padding: 16px 32px;
+    width: 20px;
+}
+.button0
+{
+    background-color: #ddffb5;
+    color: black;
+    width: 150px;
+    padding: 16px 70px;
+}
+.button4
+{
+    background-color: #ddffb5;
+    color: black;
+    border-inline: 15px 15px;
+    width: 20px;
+}
+.button5
+{
+    background-color: #ff992c;
+    color: #000000;
+    border-inline: 15px 15px;
+    width: 20px;
+}
+
+.div
+{border: 1px solid black;
+    margin: 200px 540px 50px 450px;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.h9
+{
+    background-color:#ddffb5;
+    color: white;
+    font-size: 0.1px;
+    text-align:center;
+    margin: auto    ;
+    width: 314px;
+    height: 100px;
+
+}

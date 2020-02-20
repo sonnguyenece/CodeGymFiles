@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feb61984-dff3-45c6-b386-c6513b94bcb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bai tap Bien kieu du lieu/.idea/Bai tap Bien kieu du lieu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai tap Bien kieu du lieu/Bai tap Bien va Kieu du lieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai tap Bien kieu du lieu/variable&amp;datatype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng chuyển đổi tiền tệ/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng chuyển đổi tiền tệ/.idea/[Bài tập] Ứng dụng chuyển đổi tiền tệ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng chuyển đổi tiền tệ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng chuyển đổi tiền tệ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng chuyển đổi tiền tệ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng chuyển đổi tiền tệ/[Bài tập] Ứng dụng chuyển đổi tiền tệ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng chuyển đổi tiền tệ/[Bài tập] Ứng dụng chuyển đổi tiền tệ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng máy tính/.idea/[Bài tập] Ứng dụng máy tính.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng máy tính/Caculator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng máy tính/Caculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng máy tính/[Bài tập] Ứng dụng máy tính.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Khai báo và sử dụng biến/.idea/[Thực hành] Khai báo và sử dụng biến.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Khai báo và sử dụng biến/khaiBaoBien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Khai báo và sử dụng biến/khaiBaoBien.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CheckYear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[Thực hành] Kiểm tra năm nhuận.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng toán tử/.idea/[Thực hành] Sử dụng toán tử.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng toán tử/ThucHanhSuDungToanTu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng toán tử/thuchanhtoantu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Table/.idea/Table.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Y3pC5o7JjqJ5rtBY9YVJTyv7yG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feb61984-dff3-45c6-b386-c6513b94bcb1" name="Default Changelist" comment="" />
+      <created>1582181001700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582181001700</updated>
+      <workItem from="1582181002835" duration="2189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
