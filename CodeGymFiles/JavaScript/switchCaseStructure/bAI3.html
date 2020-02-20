@@ -8,14 +8,21 @@
 <h3>Bài 3:  </h3><class>Sử dụng cấu trúc if…else, nhập vào một số, kiểm tra giá trị của số nhập vào</class>
 
 <script>
-    let value = prompt('Type a number', 0);
-    if (value > 0) {
-        alert(1);
-    } else if (value < 0) {
-        alert(-1);
-    } else {
+    let value = parseInt(prompt('Type a number:') );
+
+switch (Math.sign(value))
+{
+    case 0:
         alert(0);
-    }
+        break;
+    case 1 :
+        alert(1);
+        break;
+    case -1 :
+        alert(-1);
+        break;
+
+}
 
 </script>
 </body>
